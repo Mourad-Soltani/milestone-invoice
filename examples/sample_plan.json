@@ -1,0 +1,41 @@
+{
+  "issuer": {
+    "name": "Mourad Soltani",
+    "email": "mourad@example.com",
+    "address": "Remote / Worldwide"
+  },
+  "client": {
+    "name": "Acme Corp",
+    "email": "billing@acme.example",
+    "company": "Acme Corporation"
+  },
+  "project": "Website Redesign 2026",
+  "currency": "USD",
+  "milestones": [
+    {
+      "name": "Discovery & Wireframes",
+      "amount": 1200,
+      "status": "paid"
+    },
+    {
+      "name": "Design System & High-Fidelity Mockups",
+      "amount": 2500,
+      "status": "completed"
+    },
+    {
+      "name": "Frontend Implementation",
+      "amount": 3800,
+      "status": "pending"
+    },
+    {
+      "name": "CMS Integration & QA",
+      "amount": 1500,
+      "status": "pending"
+    },
+    {
+      "name": "Launch & Handover",
+      "amount": 800,
+      "status": "pending"
+    }
+  ]
+}

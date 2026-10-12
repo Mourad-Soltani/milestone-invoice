@@ -1,0 +1,4 @@
+# Signature: Mourad.Soltani
+# Runtime dependencies (stdlib + optional)
+pyyaml>=6.0
+pytest>=7.0
